@@ -28,14 +28,14 @@
     "html-to-text": "^9.0.5",
     "jsonwebtoken": "^9.0.2",
     "jwt-decode": "^4.0.0",
-    "nuxt": "^3.12.2",
+    "nuxt": "^3.17.7",
     "vue": "latest",
     "vue3-touch-events": "^4.1.8"
   },
   "devDependencies": {
     "@capacitor/cli": "6.1.2",
     "@eslint/js": "^9.11.1",
-    "@nuxt/eslint": "^0.5.0",
+    "@nuxt/eslint": "^1.7.1",
     "@nuxt/eslint-config": "^0.3.13",
     "@vue/cli-service": "5.0.8",
     "autoprefixer": "^10.4.20",
